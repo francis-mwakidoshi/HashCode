@@ -9,7 +9,8 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Neuron HTML CSS Template</title>
+<title>HashCode</title>
+<link rel="icon" href="images/logo.png" />
 <!--
 
 Template 2085 Neuron
@@ -46,14 +47,15 @@ http://www.tooplate.com/view/2085-neuron
                     <span class="icon icon-bar"></span>
                     <span class="icon icon-bar"></span>
                </button>
-               <a href="index.html" class="navbar-brand">Neuron</a>
+               <a href="index.php" class="navbar-brand"><img src="images/logo.png"/ style="margin-top:-40px;height:440%;"></a>
           </div>
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="gallery.html">Gallery</a></li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li class="active"><a href="index.php">Home</a></li>
+                    <li><a href="Services.html">Services</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="about.html">Careers</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
                </ul>
           </div>
 
@@ -69,9 +71,7 @@ http://www.tooplate.com/view/2085-neuron
           <div class="row">
 
                <div class="col-md-12 col-sm-12">
-                    <h1>Hello! This is Neuron.</h1>
-                    <h4>Responsive Blog HTML CSS Website Template</h4>
-                    <a href="#blog" class="smoothScroll btn btn-default">Discover More</a>
+                    <h1>HashCode The leading Technology</h1>
                </div>
 
           </div>
@@ -224,7 +224,7 @@ http://www.tooplate.com/view/2085-neuron
                          <li><a href="#" class="fa fa-linkedin"></a></li>
                     </ul>
                </div>
-               
+
           </div>
      </div>
 </footer>
