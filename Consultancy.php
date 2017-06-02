@@ -68,13 +68,13 @@
 
 <!-- Home Section -->
 
-<section id="home" class="main-join parallax-section">
+<section id="home" class="main-IT parallax-section">
      <div class="overlay"></div>
      <div class="container">
           <div class="row">
 
                <div class="col-md-12 col-sm-12">
-                    <h1>JOIN HASHCODE</h1>
+                    <h1>IT Consultancy</h1>
                </div>
 
           </div>
@@ -83,17 +83,16 @@
 
 <!-- About Section -->
 
-<section id="join">
+<section id="IT">
      <div class="container">
           <div class="row">
                <div class="col-md-offset-1 col-md-10 col-sm-12">
                     <div class="col-md-6 col-sm-6">
-                         <p>Our vision creates a shared purpose throughout the company,
-which is to help our members and employees find passion and purpose to transform their careers.</p>
+                         <p>We offer advice on how to use information technology in order to meet your business objectives or overcome problems.</p>
                     </div>
                     <div class="col-md-6 col-sm-6">
 
-                         <p>Keep checking our website for new opportunities.</p>
+                         <p> We work to improve the structure and efficiency of IT systems in various organisations.</p>
                     </div>
 
 

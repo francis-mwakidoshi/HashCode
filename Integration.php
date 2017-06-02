@@ -68,13 +68,13 @@
 
 <!-- Home Section -->
 
-<section id="home" class="main-join parallax-section">
+<section id="home" class="main-pesa parallax-section">
      <div class="overlay"></div>
      <div class="container">
           <div class="row">
 
                <div class="col-md-12 col-sm-12">
-                    <h1>JOIN HASHCODE</h1>
+                    <h1>M-PESA Integration</h1>
                </div>
 
           </div>
@@ -83,20 +83,13 @@
 
 <!-- About Section -->
 
-<section id="join">
+<section id="pesa">
      <div class="container">
           <div class="row">
                <div class="col-md-offset-1 col-md-10 col-sm-12">
-                    <div class="col-md-6 col-sm-6">
-                         <p>Our vision creates a shared purpose throughout the company,
-which is to help our members and employees find passion and purpose to transform their careers.</p>
-                    </div>
-                    <div class="col-md-6 col-sm-6">
 
-                         <p>Keep checking our website for new opportunities.</p>
-                    </div>
-
-
+                         <p>We integrate M-PESA Paybill and Till number with your Core System.</p>
+                  
           </div>
      </div>
 </section>

@@ -19,7 +19,7 @@
 <link href="https://fonts.googleapis.com/css?family=Lora|Merriweather:300,400" rel="stylesheet">
 
 </head>
-<body>
+<body style="padding-top:70px;">
 
 <!-- PRE LOADER -->
 
@@ -31,7 +31,7 @@
 
 <!-- Navigation section  -->
 
-<div class="navbar navbar-default navbar-static-top" role="navigation">
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
      <div class="container">
 
           <div class="navbar-header">
@@ -43,13 +43,24 @@
                <a href="index.html" class="navbar-brand"><img src="images/logo.png"/ style="margin-top:-40px;height:440%;"></a>
           </div>
           <div class="collapse navbar-collapse">
-               <ul class="nav navbar-nav navbar-right">
-                 <li class="active"><a href="index.php">Home</a></li>
-                 <li><a href="services.php">Services</a></li>
-                 <li><a href="about.php">About Us</a></li>
-                 <li><a href="careers.php">Careers</a></li>
-                 <li><a href="contact.php">Contact Us</a></li>
-               </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="active"><a href="index.php">Home</a></li>
+              <li><div class="dropdown">
+               <button class="dropdown-toggle btn  btn-custom" type="button" data-toggle="dropdown"><a>Services
+              <span class="caret"></span></a></button>
+              <ul class="dropdown-menu">
+                <li><a href="Customer.php">Know Your Customer</a></li>
+                <li><a href="Testing.php">Penetration Testing</a></li>
+                <li><a href="Development.php">Software Development</a></li>
+                <li><a href="Integration.php">M-PESA Integration</a></li>
+                <li><a href="Consultancy.php">IT Consultancy</a></li>
+              </ul>
+            </div>
+</li>
+              <li><a href="about.php">About Us</a></li>
+              <li><a href="careers.php">Careers</a></li>
+              <li><a href="contact.php">Contact Us</a></li>
+            </ul>
           </div>
 
   </div>

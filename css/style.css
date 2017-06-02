@@ -97,16 +97,29 @@ a:hover, a:active, a:focus {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+#IT,
+#pesa,
+#test,
+#customer,
 #join,
 #about,
 #gallery,
 #contact,
 #blog,
-#blog-single-post {
+#dev {
   padding-top: 60px;
   padding-bottom: 80px;
 }
-
+.btn-custom {
+	padding-top: 10%;
+	border: 0px;
+	background: none;
+}
+.main-IT,
+.main-pesa,
+.main-dev,
+.main-test,
+.main-customer,
 .main-about,
 .main-single-post,
 .main-join,
@@ -287,17 +300,31 @@ a:hover, a:active, a:focus {
 .main-about {
   background: url('../images/about-bg.jpg') no-repeat;
 }
+.main-dev {
+  background: url('../images/dev.jpg') no-repeat;
+}
 
 .main-join {
   background: url('../images/join.jpg') no-repeat;
 }
 
-.main-gallery {
-  background: url('../images/gallery-bg.jpg') no-repeat;
+.main-customer {
+  background: url('../images/customer.jpeg') no-repeat;
 }
 
 .main-contact {
   background: url('../images/info.jpg') no-repeat;
+}
+.main-test {
+  background: url('../images/test.jpeg') no-repeat;
+}
+.main-pesa {
+  background: url('../images/pesa.jpeg') no-repeat;
+  height: 80vh;
+}
+.main-IT {
+  background: url('../images/IT.jpg') no-repeat;
+  height: 80vh;
 }
 
 #particles-js {

@@ -68,13 +68,13 @@
 
 <!-- Home Section -->
 
-<section id="home" class="main-join parallax-section">
+<section id="home" class="main-dev parallax-section">
      <div class="overlay"></div>
      <div class="container">
           <div class="row">
 
                <div class="col-md-12 col-sm-12">
-                    <h1>JOIN HASHCODE</h1>
+                    <h1>Software Development</h1>
                </div>
 
           </div>
@@ -83,17 +83,27 @@
 
 <!-- About Section -->
 
-<section id="join">
+<section id="dev">
      <div class="container">
           <div class="row">
                <div class="col-md-offset-1 col-md-10 col-sm-12">
                     <div class="col-md-6 col-sm-6">
-                         <p>Our vision creates a shared purpose throughout the company,
-which is to help our members and employees find passion and purpose to transform their careers.</p>
+                         <p>Android, iOS and Windows Applications</p>
+                          <ul>
+                            <li>  Phone/Tablet Applications</li>
+                            <li>TV Applications</li>
+                            <li>Wearable Applications</li>
+                          </ul>
                     </div>
                     <div class="col-md-6 col-sm-6">
 
-                         <p>Keep checking our website for new opportunities.</p>
+                    <p>  WEB Services</p>
+
+                    <p>  WEB Applications</p>
+
+                      <p>Daemons</p>
+
+                    <p>  Desktop Applications</p>
                     </div>
 
 
