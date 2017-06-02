@@ -11,13 +11,7 @@
 
 <title>HashCode</title>
 <link rel="icon" href="images/logo.png" />
-<!--
 
-Template 2085 Neuron
-
-http://www.tooplate.com/view/2085-neuron
-
--->
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/font-awesome.min.css">
 
