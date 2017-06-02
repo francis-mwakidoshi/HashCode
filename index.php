@@ -51,11 +51,11 @@ http://www.tooplate.com/view/2085-neuron
           </div>
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
-                    <li class="active"><a href="index.php">Home</a></li>
-                    <li><a href="Services.html">Services</a></li>
-                    <li><a href="about.html">About Us</a></li>
-                    <li><a href="about.html">Careers</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                 <li class="active"><a href="index.php">Home</a></li>
+                 <li><a href="services.php">Services</a></li>
+                 <li><a href="about.php">About Us</a></li>
+                 <li><a href="careers.php">Careers</a></li>
+                 <li><a href="contact.php">Contact Us</a></li>
                </ul>
           </div>
 

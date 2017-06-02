@@ -9,7 +9,7 @@
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<title>Neuron Template - Contact</title>
+<title>Contact Us</title>
 <!--
 
 Template 2085 Neuron
@@ -51,10 +51,10 @@ http://www.tooplate.com/view/2085-neuron
           <div class="collapse navbar-collapse">
                <ul class="nav navbar-nav navbar-right">
                  <li class="active"><a href="index.php">Home</a></li>
-                 <li><a href="Services.html">Services</a></li>
-                 <li><a href="about.html">About Us</a></li>
-                 <li><a href="about.html">Careers</a></li>
-                 <li><a href="contact.html">Contact Us</a></li>
+                 <li><a href="services.php">Services</a></li>
+                 <li><a href="about.php">About Us</a></li>
+                 <li><a href="careers.php">Careers</a></li>
+                 <li><a href="contact.php">Contact Us</a></li>
                </ul>
           </div>
 
@@ -83,9 +83,10 @@ http://www.tooplate.com/view/2085-neuron
           <div class="row">
 
                <div class="col-md-offset-1 col-md-10 col-sm-12">
-                    <h2>Say hello..</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-
+                    <h2>GET IN TOUCH..</h2>
+                    <p>Have any questions about any of our services?</p>
+                    <p>Please send an email to customercare@HashCode.co.ke</p>
+                    <div class="col-md-6 col-sm-6">
                     <form action="#" method="post">
                          <div class="col-md-4 col-sm-4">
                               <input name="name" type="text" class="form-control" id="name" placeholder="Name">
@@ -103,6 +104,11 @@ http://www.tooplate.com/view/2085-neuron
                               <input name="submit" type="submit" class="form-control" id="submit" value="Send">
                          </div>
                     </form>
+                  </div>
+                    <div class="col-md-6 col-sm-6">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.799624994968!2d36.80321131421176!3d-1.2947695359993503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f10c03accf0e9%3A0x1a3862bfb0782d34!2sLandmark+Plaza%2C+Argwings+Kodhek+Rd%2C+Nairobi!5e0!3m2!1sen!2ske!4v1496392698486" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+                    </div>
                </div>
 
           </div>
